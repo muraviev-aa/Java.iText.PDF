@@ -49,7 +49,7 @@ public class TableImage {
         table.addCell(new Cell().add("Река").setTextAlignment(TextAlignment.CENTER));
         table.addCell(new Cell().add("25").setTextAlignment(TextAlignment.CENTER));
 
-        table.addCell(new Cell().add("Карась").setTextAlignment(TextAlignment.CENTER));
+        table.addCell(new Cell().add("Болт").setTextAlignment(TextAlignment.CENTER));
         table.addCell(new Cell().add(image).setTextAlignment(TextAlignment.CENTER));
         table.addCell(new Cell().add("48").setTextAlignment(TextAlignment.CENTER));
 
