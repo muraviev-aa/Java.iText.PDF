@@ -75,4 +75,12 @@
   </ol>
 </details>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>ColumnAndRowSpanInDetail.java</summary>
+  <ol>
+    <img src="images/test9.png" alt="drawing" width="550"/>
+  </ol>
+</details>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
