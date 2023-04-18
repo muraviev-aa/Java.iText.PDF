@@ -83,4 +83,12 @@
   </ol>
 </details>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>ChangeListSymbol.java</summary>
+  <ol>
+    <img src="images/test10.png" alt="drawing" width="80"/>
+  </ol>
+</details>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
