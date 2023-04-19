@@ -28,6 +28,11 @@ public class ImageAsListIcon {
         document.setFont(font);
 
         ImageData imageData = ImageDataFactory.create(IMG);
+        /**
+         * Настройка размеров картинки
+         */
+        imageData.setHeight(15f);
+        imageData.setWidth(15f);
 
         List list = new List();
         list.setListSymbol(new Image(imageData));
