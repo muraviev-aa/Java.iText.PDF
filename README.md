@@ -99,4 +99,12 @@
   </ol>
 </details>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>SetPageSizeInPdf.java</summary>
+  <ol>
+    Назначение формата А5 и поворот листа на 90 градусов.
+  </ol>
+</details>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
