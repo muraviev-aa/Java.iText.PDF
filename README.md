@@ -123,4 +123,12 @@
   </ol>
 </details>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>UseOfStyleInPdf.java</summary>
+  <ol>
+    <img src="images/test15.png" alt="drawing" width="350"/>
+  </ol>
+</details>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
