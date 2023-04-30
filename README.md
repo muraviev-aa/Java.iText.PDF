@@ -3,6 +3,10 @@
 
 <img src="images/itext.png" alt="drawing" width="550"/>
 
+***Щелкните на значке***
+<img src="images/triangle.png" alt="drawing" width="15"/>
+***увидите результат работы данного кода***
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>ColumnAndRowSpan.java</summary>
