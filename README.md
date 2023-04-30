@@ -3,7 +3,7 @@
 
 <img src="images/itext.png" alt="drawing" width="550"/>
 
-***Щелкните на значке***
+***Щелкните по значку***
 <img src="images/triangle1.png" alt="drawing" width="25"/>
 ***и увидите картинку с результатом работы данного кода***
 
