@@ -4,7 +4,7 @@
 <img src="images/itext.png" alt="drawing" width="550"/>
 
 ***Щелкните на значке***
-<img src="images/triangle.png" alt="drawing" width="20"/>
+<img src="images/triangle.png" alt="drawing" width="25"/>
 ***и увидите результат работы данного кода***
 
 <!-- TABLE OF CONTENTS -->
