@@ -4,7 +4,9 @@
 <a name="readme-top"></a>
 ### Создание pdf файлов
 
+<p align="center">
 <img src="images/itext.png" alt="drawing" width="550"/>
+</p>
 
 ***Щелкните по значку***
 <img src="images/triangle1.png" alt="drawing" width="25"/>
